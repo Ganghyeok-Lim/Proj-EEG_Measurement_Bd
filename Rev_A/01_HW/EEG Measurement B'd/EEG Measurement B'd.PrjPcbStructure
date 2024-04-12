@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=01_Index.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=02_Overview.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=03_Power_Analog_Part.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=04_Analog_Part.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=05_Power_Digital_Part.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=06_Digital.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=01_Index.SchDoc|FileName=07_Connector.SchDoc|SheetNumber=7
